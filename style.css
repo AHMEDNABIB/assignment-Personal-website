@@ -1,0 +1,141 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+	font-family: "Poppins", sans-serif;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 35px;
+}
+
+span {
+	color: #ffc68c;
+	margin: 0;
+}
+
+button {
+	text-decoration: none;
+	background: #ff5959;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 3px;
+	margin-top: 10px;
+}
+
+.flexible-container {
+	display: flex;
+	width: 80%;
+}
+
+img {
+	width: 65%;
+}
+
+.first_section {
+	margin-bottom: 100px;
+	padding: 10px;
+}
+
+.half-width {
+	margin-left: 50px;
+	width: 50%;
+	padding-left: 2%;
+}
+
+.half-width p {
+	margin-top: 20px;
+	padding: 15 px;
+}
+
+.half-width img {
+	width: 65%;
+	margin-right: -10px;
+}
+
+.header-section {
+	border-left: 3px solid;
+	border-image: linear-gradient(#971313ce, #ff5959);
+	border-image-slice: 1;
+	/* padding-left: 5px; */
+	margin-bottom: 15px;
+}
+
+.third-section {
+	margin-bottom: 50px;
+}
+
+.develop-banner {
+	background-image: url(images/shapes/shape-1.png);
+	background-repeat: no-repeat;
+	background-size: 200px;
+	background-position: top 45px left 10px;
+}
+
+.fourth-section {
+	padding-bottom: 30px;
+	margin-bottom: 10px;
+	/* border: 1px solid black; */
+}
+.global-banner {
+	background-image: url(images/shapes/shape-1.png);
+	background-repeat: no-repeat;
+	background-size: 200px;
+	background-position: bottom -2px right 85px;
+}
+
+.footer {
+	background-color: #0b0d17;
+	padding: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.footer h3 {
+	color: #99c1da;
+}
+
+.footer p {
+	color: #91939c;
+}
+
+.second-section {
+	margin-bottom: 60px;
+	
+}
+.missions-header {
+	text-align: center;
+	margin-bottom: 15px;
+}
+.mission {
+	width: 300px;
+	background-color: #edf5f6;
+	border-radius: 10px;
+	padding: 20px;
+}
+.mission img {
+	width: 100%;
+}
+
+.vission {
+	width: 300px;
+	background-color: #FFEEEE;
+	border-radius: 10px;
+	padding: 20px;
+}
+.vission img {
+	width: 100%;
+}
+
+.goals {
+	width: 300px;
+	background-color: #FFF4D6;
+	border-radius: 10px;
+	padding: 20px;
+}
+.goals img {
+	width: 100%;
+}
